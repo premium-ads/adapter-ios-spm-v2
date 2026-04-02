@@ -1,16 +1,18 @@
-# PremiumAds AdMob Adapter - SPM (V2)
+# PremiumAds Google Mediation Adapter (iOS - SPM)
 
-A Swift Package Manager (SPM) wrapper for the PremiumAds AdMob Adapter framework, 
-enabling easy integration into iOS projects using SPM.
+Swift Package Manager distribution of the PremiumAds Google AdMob/Ad Manager mediation adapter.
 
-## Overview
+## Installation
 
-This package wraps the PremiumAds AdMob Adapter XCFramework from the official 
-[mobile-ads-sdk-v2 repository](https://github.com/premium-ads/mobile-ads-sdk-v2/tree/refs/heads/main/ios/admob-adapter), 
-making it available for projects that use Swift Package Manager instead of CocoaPods.
+1. File → Add Packages
+2. Enter: `https://github.com/premium-ads/adapter-ios-spm.git`
+3. Set Dependency Rule to "Up to Next Major Version" from `1.0.0`
 
-## Why This Wrapper?
+## Requirements
 
-The official PremiumAds SDK only provides CocoaPods integration. This wrapper allows 
-developers who prefer or require SPM to integrate the AdMob adapter seamlessly into 
-their iOS projects.
+- iOS 13.0+
+- Google Mobile Ads SDK 11.0+
+
+## Usage
+
+See [integration guide](https://docs.premiumads.net/docs/google-admob) for full setup instructions.
