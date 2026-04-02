@@ -1,4 +1,4 @@
-# PremiumAds Google Mediation Adapter (iOS - SPM)
+# PremiumAds Google Mediation Adapter V2 (iOS - SPM)
 
 Swift Package Manager distribution of the PremiumAds Google AdMob/Ad Manager mediation adapter.
 
