@@ -6,7 +6,7 @@ Swift Package Manager distribution of the PremiumAds Google AdMob/Ad Manager med
 
 1. File → Add Packages
 2. Enter: `https://github.com/premium-ads/adapter-ios-spm-v2`
-3. Set Dependency Rule to "Up to Next Major Version" from `1.0.2`
+3. Set Dependency Rule to "Up to Next Major Version" from `1.0.4`
 
 ## Requirements
 
