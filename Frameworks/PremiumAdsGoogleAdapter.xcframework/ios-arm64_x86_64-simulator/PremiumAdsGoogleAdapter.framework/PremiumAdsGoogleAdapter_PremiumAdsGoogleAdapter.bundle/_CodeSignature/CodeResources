@@ -4,13 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Info.plist</key>
+		<key>PrivacyInfo.xcprivacy</key>
 		<data>
-		rpeufYp1kfl/bYwKCpyvDH7APwQ=
+		qPOqojgyM2+Rpb7IfbqRoAerEC8=
 		</data>
 	</dict>
 	<key>files2</key>
-	<dict/>
+	<dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zKpSCpzlV6FLnK43sXr8D5Z9Oh5Z98J5wWpqCjLf+6g=
+			</data>
+		</dict>
+	</dict>
 	<key>rules</key>
 	<dict>
 		<key>^.*</key>
